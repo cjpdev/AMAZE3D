@@ -1,6 +1,6 @@
 # AMAZE3D-Localization
 
-![splash a maze 3D localization]([https://github.com/chaymakes/AMAZE3D/blob/main/localization.png?raw=true] "Splash")
+<img src="https://github.com/chaymakes/AMAZE3D/blob/main/localization.png?raw=true" height="50%" width="50%">
 
 https://chaymakes.com/roku
 
