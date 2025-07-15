@@ -1,5 +1,7 @@
 # AMAZE3D-Localization
 
+![splash a maze 3D localization]([https://github.com/chaymakes/AMAZE3D/blob/main/localization.png?raw=true] "Splash")
+
 https://chaymakes.com/roku
 
 These resources are used for the localization of the game. 
