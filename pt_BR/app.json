@@ -1,0 +1,192 @@
+{
+    "GAME": {
+        "comment": "For performance I don't use my draw center function, so offset for each language is needed",
+        "SCORE_OFFSET":0,
+        "COINS_OFFSET":10,
+        "DANGER_OFFSET":10,
+        "FIND_EXIT_OFFSET":-22
+    },
+
+    "MENU":{
+        "END_GAME_TXT":"FIM JOGO",
+        "NEW_GAME_TXT":"NOVO JOGO",
+        "CONTINUE_TXT":"CONTINUAR",
+        "SETTINGS_TXT":"CONFIGURAÇÕES",
+        "HELP_TXT":"AJUDA",
+        "ABOUT_TXT":"SOBRE",
+        "EXIT_TXT":"SAIR",
+        "LANGUAGE": "IDIOMA"
+    },
+
+    "WORDS":{
+
+        "OF":"de",
+        "CURRENCY":"R$",
+        "QUOTE":"Citação:",
+        "RIDDLE":"Enigma:",
+
+        "comment_01":"NÃO mean NO not OFF, SIM mean yes",
+        "comment_02":"PONTOS means points, socre is PONTUAÇÃO",
+
+        
+        "OFF_TXT": "[NÃO]",
+        "ON_TXT": "[SIM]", 
+
+        "NEAR":"[PERTO]",
+        "FAR":"[LONGE]",
+
+        "HORROR":"[HORROR]",
+        "MOON":"[LUA]",
+        "HI":"[OI]",
+        "MID":"[MEADOS]",
+        "LOW":"[BAIXO]",
+
+        "RESOLUTION":"RESOLUÇÃO",
+        "DOORS":"PORTAS",
+        "DOOR":"PORTA",
+
+        "HEALTH":"HEALTH",
+        "SCORE":"PONTOS",
+        "COINS":"MOEDAS",
+        "COIN":"MOEDA",
+        "TOP":"TOP",
+        "CASH":"NUMERÁRIO",
+        "DANGER":"PERIGO",
+        "CHERRY":"CEREJA",
+        "HEART":"CORAÇÃO",
+        "LEVEL":"NÍVEL",
+        "BACK":"VOLTAR",
+
+        "APPLE":"Maçã",
+        "PEAR":"Pêra",
+        "CHERRY_LO_CASE":"Cereja",
+
+        "CANCEL":"CANCELAR",
+        "SUBMIT":"ENVIAR",
+
+        "GREEN":"VERDE",
+        "BLUE":"AZUL",
+        "RED":"VERMELHO",
+
+        "PAUSED":"PAUSADO",
+        "BONUS":"BÔNUS",
+        "ERROR":"ERRO"
+    },
+
+
+    "PROMPTS_ARRAY": {
+       
+       "BUTTERFLY": ["Você capturou um", "BORBOLETA", "<VALUE> pontos."],
+       "SPIDER": ["VOCÊ ESMAGOU", "UMA ARANHA", "<VALUE> pontos", "tenha mais cuidado."],
+       "DOOR_COST": ["Colete <VALUE> moedas", "para abrir esta porta."],
+       "START_DOOR_LOCKED":["Porta de partida", "agora bloqueado"],
+       "BIGHAND_CHAIN":["R$1,000", "Você tem a corrente dele.", "AGORA CORRA!"],
+       "BIGBLOCKS_MONEY_NONE":["Você tem $ 0 em dinheiro", "QUE?"],
+       "BIGBLOCKS_MONEY":["-$ <VALUE>", "Obrigado!"],
+       "POTION":["POÇÃO 100 PONTOS", "Agora você pode ver", "DINHEIRO e BÔNUS no minimapa."]
+    },
+
+    "GAMEOVER":{
+        "YOU_SCORED":"você marcou",
+        "GAME_OVER":"FIM DE JOGO",
+        "PRESS_TO_SUBMIT":"Pressione (Selecionar) para enviar a pontuação.",
+        "PRESS_FOR_MAIN":"Pressione (Selecionar) para o menu principal.",
+        "MIN_SCORE_REQURIED":"pontuação acima de <VALUE> para enviar pontuação."
+    },
+
+    "SUBMIT":{
+        "CONGRATULATION":"CONGRATULAÇÃO",
+        "ENTER_NAME":"digite o nome",
+        "ADD_YOUR_SCORE":"Adicione sua pontuação <VALUE> para a tabela de classificação.",
+        "SUBMITING_SCORE":"PONTUAÇÃO DE ENVIO",
+        "PLEASE_WAIT":"Por favor (aguarde)...",
+        "INVALID_NAME":"nome não válido",
+        "INVALID_NO_CHANGE":"",
+        "ONE_MORE_TRY":"Você tem mais uma tentativa!",
+        "THANKS":"Obrigado por jogar!",
+        "PRESS_MAIN":"Pressione (Selecionar) menu principal.",
+        "PRESS_RETRY":"Pressione (Selecionar) para tentar novamente",
+        "YOU_RANKED":"VOCÊ CLASSIFICOU"
+    },
+
+    "POSTER": {
+        "use":true,
+        "MESSAGE_01":["LEGAL", "VOCÊ É LEGAL", "DIVERTIR-SE", "VOCÊ É UM", "VOCÊ PODE", "OBRIGADO", "ISSO É"],
+        "MESSAGE_02":["", "", "", "GANHADOR", "GANHAR", "PARA JOGAR", "NÍVEL : <VALUE>"],
+       
+        "REWARDS_TITLE":["PROCURADO", "CAPTURAR"],
+        "REWARDS_INFO":["Recompensa", "Recompensa"],
+
+        "comment_01":"coxinha is a brazilian snake food",
+
+        "REWARDS":["1000 Moedas", "5,000 Moedas", "10,000 Moedas", "100,000 Moedas", "100 Gemas", "1,000 Gemas",
+                   "1 Maçã", "2 Maçãs", "4 Maçãs", "2 Galinhas", "Um ganso" , "1 Coxinha", "2 Coxinha"]
+    },
+
+    "DOOR_BONUS" : {
+        "GREEN_DEFAULT":"",
+        "GREEN_EXTRA":"",
+        
+        "BLUE_DEFAULT":"Dinheiro  Moedas 50% + 50 pontos",
+        "BLUE_EXTRA":"Dinheiro  Moedas 50%  [QUARTO ESCURO] Bônus 100 pontos",
+     
+        "RED_DEFAULT":"Dinheiro  Moedas  duplo + 100 pontos",
+        "RED_EXTRA":"Dinheiro  Moedas  duplo  [QUARTO ESCURO] Bônus 200 pontos"
+    },
+
+    "PROMPTS":{
+        "THANKS_FOR_PLAYING":"OBRIGADO POR JOGAR.",
+        "LOADING":"carregamento...",
+        "UPDATING":"atualização...",
+        "I_AM_FRUIT":"Eu sou frutado!",
+        "EXIT_OPEN":"Saída aberta",
+        "FIND_EXIT":"Encontre a saída.",
+        "CHANGE_SETTING":"Pressione <selecionar> para alterar a configuração.",
+        "GET_READY":"PREPARAR-SE...",
+        "DOOR_IS_LOCKED":"A porta está trancada"
+    },
+
+    "SETTINGS": {
+        "MUSIC_TXT":"MÚSICA",
+        "MUSIC_TXT_TIP":"Música de fundo do jogo, NÃO or SIM.",
+
+        "SCANLINE_TXT":"LINHA DE VARREDURA",
+        "SCANLINE_TXT_TIP":"Efeito retro NÃO or SIM.",
+        
+        "COLLECTABLE_TEXT_TXT":"TEXTO COLECIONÁVEL",
+        "COLLECTABLE_TEXT_TXT_TIP":"Nome de exibição do item coletado.",
+ 
+        "GHOST_FX_TXT":"FANTASMA FX",
+        "GHOST_FX_TXT_TIP":"Todos os inimigos têm uma aparência translúcida.",
+
+        "LIGHTING_TXT":"ILUMINAÇÃO",
+        "LIGHTING_TXT_TIP":"Nível de brilho mundial e FX",
+
+        "TOUCH_TXT":"TOCAR" ,
+        "TOUCH_TXT_TIP":"Mostre a mão segurando a tocha, em labirintos escuros.." ,
+
+        "ADAPTIVE_RES_TXT":"RES ADAPTÁVEL" ,
+        "ADAPTIVE_RES_TXT_TIP":"Adapta a resolução para acelerar a renderização." ,
+
+        "ANTI_ALIASING_TXT":"ANTI-ALIASING",
+        "ANTI_ALIASING_TXT_TIP":"Anti-aliasing de gráficos mais lentos.",
+
+        "REFLECTIVE_FLOOR_TXT":"PISO REFLETIVO",
+        "REFLECTIVE_FLOOR_TXT_TIP":"As paredes refletem no chão, desempenho mais lento.",
+
+        "DRAW_DISTANCE_TXT":"DISTÂNCIA DE VISÃO",
+        "DRAW_DISTANCE_TXT_TIP":"Performace, objeto distante não desenhado.",
+
+        "RESET_TXT":"REPOR",
+        "RESET_TXT_TIP":"Configurações padrão.",
+
+        "BACK_TXT":"MENU PRINCIPAL",
+        "BACK_TXT_TIP":"Voltar ao menu principal.",
+
+        "TXT":"",
+        "TXT_TIP":""
+    }
+}
+
+
+  

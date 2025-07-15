@@ -1,0 +1,19 @@
+{
+    "MSG_ID_NONE":[""],
+     "MSG_ID_SPIDERS":["*Se você vir uma aranha","tenha cuidado","eles são inofensivos."],
+    "MSG_ID_THANKS_SUBSCRIBE":["*Obrigado por jogar","meu jogo","Inscreva-se em: @ChayMakes","no YouTube"],
+    "MSG_ID_COLLECT_COINS":["*Colete moedas para abrir saídas","e marcar pontos","", ""],
+    "MSG_ID_COLLECT_HEARTS":["*Colete corações","para aumentar sua saúde máxima","",""],
+    "MSG_ID_COLLECT_CHERRYS":["*Colete cerejas","para restaurar um pouco de saúde","",""],
+    "MSG_ID_AVOID_GHOST_AND_BATS":["*Evite fantasmas e morcegos","Eles causarão danos.","",""],  
+    "MSG_ID_BONUS_DOOR":["*Ganhe pontos de bônus","por sair","das portas AZUIS ou VERMELHAS",""],  
+    "MSG_ID_DARK_ROOM":["*Está escuro aqui","as luzes estão apagadas","encontre moedas","e depois a saída"],
+    "MSG_ID_DARK_ROOM_EXIT_ONLY":["*Está escuro aqui","as luzes estão apagadas","encontre a SAÍDA",""],
+    "MSG_ID_DARK_BASEMENT_EXIT_ONLY":["*Você encontrou o porão","as luzes estão apagadas","encontre a SAÍDA e fique seguro.",""],
+    "MSG_ID_EXIT_ONLY":["*A saída está aberta","coletar itens","",""],    
+    "MSG_ID_BIG_MAZE":["*Grande labirinto","Encontre saídas e evite","armadilhas e inimigos.","BOA SORTE!"],
+    "MSG_ID_YOUR_GREAT":["*Você está indo muito bem","continue.","","BOA SORTE!", ""],
+    "MSG_ID_BONUS_LEVEL":["Nível de bônus de SORTE encontrado.","","Colete tudo o que puder encontrar.", ""],
+    "MSG_ID_OUTSIDE_DARK":["*Está muito escuro lá fora.", "Mas tome um pouco de ar fresco", "e então encontre a saída.",""],
+    "MSG_ID_OUTSIDE_LIGHT":["*Você está lá fora.", "Tome um pouco de ar fresco,", "do que encontre uma saída.",""]        
+}

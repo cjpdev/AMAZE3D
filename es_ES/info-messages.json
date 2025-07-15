@@ -1,0 +1,19 @@
+{
+"MSG_ID_NONE":[""],
+"MSG_ID_SPIDERS":["*Si ves una araña", "ten cuidado", "son inofensivas"],
+"MSG_ID_THANKS_SUBSCRIBE":["*Gracias por jugar a","mi juego","Suscríbete a: @ChayMakes","en YouTube"],
+"MSG_ID_COLLECT_COINS":["*Recoge monedas para abrir salidas,","y ganar puntos","", ""],
+"MSG_ID_COLLECT_HEARTS":["*Recoge corazones","para aumentar tu salud máxima","",""],
+"MSG_ID_COLLECT_CHERRYS":["*Recoge cerezas","para recuperar salud","",""],
+"MSG_ID_AVOID_GHOST_AND_BATS":["*Evita fantasmas y murciélagos","Hacen daño.","",""],
+"MSG_ID_BONUS_DOOR":["*Gana puntos extra","por salir de","puertas AZULES o ROJAS",""],
+"MSG_ID_DARK_ROOM":["*Está oscuro aquí","luces apagadas","encuentra monedas","y luego la salida"],
+"MSG_ID_DARK_ROOM_EXIT_ONLY":["*Está oscuro aquí","luces apagadas","encuentra la SALIDA",""],
+"MSG_ID_DARK_BASEMENT_EXIT_ONLY":["*Encontraste un sótano","luces apagadas","encuentra la SALIDA",""],
+"MSG_ID_EXIT_ONLY":["*La salida está abierta","recoge objetos","",""],
+"MSG_ID_BIG_MAZE":["*Gran laberinto","Encuentra salidas y evita","trampas y enemigos.","¡Buena suerte!"],
+"MSG_ID_YOUR_GREAT":["*Lo estás haciendo muy bien","sigue adelante.","¡Buena suerte!"],
+"MSG_ID_BONUS_LEVEL":["*¡SUERTE!","Nivel de bonificación encontrado.","","Recoge todo lo que encuentres.", ""],
+"MSG_ID_OUTSIDE_DARK":["*Está muy oscuro afuera.", "Pero respira aire fresco.", "que luego encuentra una salida.",""],
+"MSG_ID_OUTSIDE_LIGHT":["*Estás afuera.", "Respira aire fresco.", "que luego encuentra una salida.",""]   
+}

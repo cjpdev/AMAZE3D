@@ -1,0 +1,48 @@
+
+{           
+             "info":"ChayMakes, 'AMAZE 3D' game. Language: Base Language set.",
+
+            "CONGRATULATION":["CONGRATULATION TO!","'<_NAME_TOPPLAYER_>'", "they're a top <_VALUE_>", "player"],
+
+            "messages_service" : [
+                ["How about checking", "the setting menu", "some interesting stuff", "in there."],
+                ["Don't forget to","read the HELP page.", "Lot's of usful info","in there."],
+                ["Don't forget to submit","your scores", "to get onto the","leader-board."],
+                ["When you submit", "a score I'll add" ,"a FLAG based on your", "location. I hope it's right!"],
+                ["If you enjoy this game", "How about subscribing"," on YouTube, and", "letting ChayMakes know."],
+                ["If you EXIT the game", "I'll save where you","were for next time.", "Select CONTINUE"],
+                ["If you see errors HELP out.", "Email or goto 'chaymakes.com/roku'"]
+   
+            ],
+
+            "messages_s1" : [
+                ["If you enjoy this game", "How about subscribing"," on YouTube, and", "letting ChayMakes know."],
+                ["If you EXIT the game", "I'll save where you","were for next time.", "Select CONTINUE"],
+                ["","It's just a game", "So have fun."],
+                ["","It's just a game", "So have fun."],
+                ["How about them!","GHOSTS", "They're just to nice."],
+                ["Training BATS to","gard a maze", "is not easy."],
+                ["","Time for some","FUN!"],
+                ["","Hope you're having", "FUN!"],
+                ["","It's just a game", "So have fun."],
+                ["If you see errors HELP out.", "Email or goto 'chaymakes.com/roku'"]
+            ],
+    
+            "messages_s2" : [
+                ["","Time for some","FUN!"],
+                ["","It's just a game", "So have fun."],
+                ["It's only a game","I'm not really", "that mean."],
+                ["I'm not really", "a mean king","It's just a game."],
+                ["*","Tell your friends", "about my","maze world.", "So they can enjoy the fun."],
+                ["If you enjoy this game.", "How about subscribing"," on YouTube, and", "letting 'ChayMakes' know."],
+                ["","It's just a game", "So have fun."],
+                ["Looks like","you're having", "FUN!", "That's good."],
+                ["I'm not a bad","King, but I really", "love my gold COINS."],
+                ["","You getting", "Good at this.", "Guess my GUARDS need telling off."],
+                ["","Yes! those","GHOSTS", "are just to nice."],
+                ["","I'm not","a bad King. But I really", "love COIN, CASH, GEMS."],
+                ["","It's easy being","a king when you have", "all this CASH!"],
+                ["","If you see errors HELP out.", "Email or goto 'chaymakes.com/roku'"],
+                ["I made 'ChayMakes' create", "my maze world", "for free. Show support,", "and Subscribe on YouTube"]
+            ]
+            }

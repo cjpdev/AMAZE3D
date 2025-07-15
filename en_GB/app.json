@@ -1,0 +1,188 @@
+{
+    "GAME": {
+        "info":"ChayMakes, 'AMAZE 3D' game. Language: Base Language set.",
+        "comment": "For performance I don't use my draw center function, so offset for each language is needed",
+        "SCORE_OFFSET":0,
+        "COINS_OFFSET":8,
+        "DANGER_OFFSET":-10,
+        "FIND_EXIT_OFFSET":8
+    },
+
+    "MENU":{
+        "END_GAME_TXT":"END GAME",
+        "NEW_GAME_TXT":"NEW GAME",
+        "CONTINUE_TXT":"CONTINUE",
+        "SETTINGS_TXT":"SETTINGS",
+        "HELP_TXT":"HELP",
+        "ABOUT_TXT":"ABOUT",
+        "EXIT_TXT":"EXIT",
+        "LANGUAGE": "LANGUAGE"
+    },
+
+    "WORDS":{
+        
+        "OF":"of",
+        "CURRENCY":"$",
+        "QUOTE":"Quote:",
+        "RIDDLE":"Riddle:",
+        
+        "OFF_TXT": "[OFF]",
+        "ON_TXT": "[ON]", 
+
+        "NEAR":"[NEAR]",
+        "FAR":"[FAR]",
+
+        "HORROR":"[HORROR]",
+        "MOON":"[MOON]",
+        "HI":"[HI]",
+        "MID":"[MID]",
+        "LOW":"[LOW]",
+
+        "RESOLUTION":"RESOLUTION",
+        "DOORS":"DOORS",
+        "DOOR":"DOOR",
+
+        "HEALTH":"HEALTH",
+        "SCORE":"SCORE",
+        "COINS":"COINS",
+        "COIN":"COIN",
+        "TOP":"TOP",
+        "CASH":"CASH",
+        "DANGER":"DANGER",
+        "CHERRY":"CHERRY",
+        "HEART":"HEART",
+        "LEVEL":"LEVEL",
+        "BACK":"BACK",
+
+        "APPLE":"Apple",
+        "PEAR":"Pear",
+        "CHERRY_LO_CASE":"Cherry",
+        "CANCEL":"CANCEL",
+        "SUBMIT":"SUBMIT",
+
+        "GREEN":"GREEN",
+        "BLUE":"BLUE",
+        "RED":"RED",
+
+        "PAUSED":"PAUSED",
+        "BONUS":"BONUS",
+        "ERROR":"ERROR"
+    },
+
+    "PROMPTS_ARRAY": {
+       "BUTTERFLY": ["You captured a", "BUTTERFLY", "<VALUE> points."],
+
+       "SPIDER": ["YOU SQUASHED", "SPIDER", "<VALUE> points", "be more careful."],
+       "DOOR_COST": ["Collect <VALUE> coin", "to open this door"],
+       "START_DOOR_LOCKED":["Start door", "is now locked"],
+       "BIGHAND_CHAIN":["$1,000", "You got his chain.", "NOW RUN!"],
+       "BIGBLOCKS_MONEY_NONE":["You got $0 money", "WHAT?"],
+       "BIGBLOCKS_MONEY":["-$ <VALUE>", "Thanks you!"],
+       "POTION":["POTION 100 POINTS", "You can now see", "CASH, and BONUS on the mini map."]
+    },
+
+    "GAMEOVER":{
+        "YOU_SCORED":"you scored",
+        "GAME_OVER":"GAME OVER",
+        "PRESS_TO_SUBMIT":"Press <Select> to submit score.",
+        "PRESS_FOR_MAIN":"Press <Select> for main menu.",
+        "MIN_SCORE_REQURIED":"score over <VALUE> to submit score"
+    },
+
+    "SUBMIT":{
+        "CONGRATULATION":"CONGRATULATION",
+        "ENTER_NAME":"enter name",
+        "ADD_YOUR_SCORE":"Add your score [<VALUE>] to the leaderboard.",
+        "SUBMITING_SCORE":"SUBMITTING SCORE",
+        "PLEASE_WAIT":"Please wait...",
+        "INVALID_NAME":"name not valid",
+        "INVALID_NO_CHANGE":"",
+        "ONE_MORE_TRY":"You have one more try!",
+        "THANKS":"Thanks for playing!",
+        "PRESS_MAIN":"Press [ SELECT ] main menu",
+        "PRESS_RETRY":"Press [ SELECT ] to retry",
+        "YOU_RANKED":"YOU RANKED"
+    },
+
+    "POSTER": {
+        "use":true,
+       
+        "MESSAGE_01":["GREAT", "YOU'RE COOL", "HAVE FUN", "YOU'RE A", "YOU CAN", "THANKS", "THIS IS"],
+        "MESSAGE_02":["", "", "", "WINNER", "WIN", "FOR PLAYING", "LEVEL : <VALUE>"],
+       
+        "REWARDS_TITLE":["WANTED", "CAPTURE"],
+        "REWARDS_INFO":["Reward", "Bounty"],
+        "REWARDS":["1000 Coins", "5,000 Coins", "10,000 Coins", "100,000 Coins", "100 Gems", "1,000 Gems",
+                   "1 Apples", "2 Apples", "4 Apples", "2 Chickens", "A Goose", "1 Beef Pie", "2 Beef Pie"]
+    },
+
+    "DOOR_BONUS" : {
+        "GREEN_DEFAULT":"",
+        "GREEN_EXTRA":"",
+        
+        "BLUE_DEFAULT":"Cash + Coins 50% + 50 points",
+        "BLUE_EXTRA":"Cash + Coins 50% + [DARK ROOM] Bonus 100 points",
+
+        "RED_DEFAULT":"Cash + Coins doubler + 100 points",
+        "RED_EXTRA":"Cash + Coins doubler + [DARK ROOM] Bonus 200 points"  
+    },
+
+    "PROMPTS":{
+        "THANKS_FOR_PLAYING":"THANKS FOR PLAYING.",
+        "LOADING":"Loading...",
+        "UPDATING":"updating...",
+        "I_AM_FRUIT":"I'm fruit!",
+        "EXIT_OPEN":"Exit open",
+        "FIND_EXIT":"Find exit.",
+        "CHANGE_SETTING":"press <SELECT> to change setting.",
+        "GET_READY":"GET READY...",
+        "DOOR_IS_LOCKED":"Door is locked",
+        "ADD_YOUR_SCORE":"Add your score [<VALUE>] to the leaderboard."
+    },
+
+    "SETTINGS": {
+        "MUSIC_TXT":"MUSIC",
+        "MUSIC_TXT_TIP":"Game background music, OFF or ON.",
+
+        "SCANLINE_TXT":"SCANLINE",
+        "SCANLINE_TXT_TIP":"Retro scanline effect OFF or ON.",
+        
+        "COLLECTABLE_TEXT_TXT":"COLLECTABLE TEXT",
+        "COLLECTABLE_TEXT_TXT_TIP":"Display name of item collected.",
+ 
+        "GHOST_FX_TXT":"GHOST FX",
+        "GHOST_FX_TXT_TIP":"All enemies have a translucent look.",
+
+        "LIGHTING_TXT":"LIGHTING",
+        "LIGHTING_TXT_TIP":"World brightnees level, and FX",
+
+        "TOUCH_TXT":"TOUCH" ,
+        "TOUCH_TXT_TIP":"Show hand holding torch, in dark mazes." ,
+
+        "ADAPTIVE_RES_TXT":"ADAPTIVE RES" ,
+        "ADAPTIVE_RES_TXT_TIP":"Adapts resolution to speed up rendering." ,
+
+        "ANTI_ALIASING_TXT":"ANTI-ALIASING",
+        "ANTI_ALIASING_TXT_TIP":"Anti-aliasing of graphics slower.",
+
+        "REFLECTIVE_FLOOR_TXT":"REFLECTIVE FLOOR",
+        "REFLECTIVE_FLOOR_TXT_TIP":"Walls reflect on floor, slower performance.",
+
+        "DRAW_DISTANCE_TXT":"DRAW DISTANCE",
+        "DRAW_DISTANCE_TXT_TIP":"Performance, far away object not drawn.",
+
+        "RESET_TXT":"RESET",
+        "RESET_TXT_TIP":"Default settings.",
+
+        "BACK_TXT":"MAIN MENU",
+        "BACK_TXT_TIP":"Return to main menu",
+
+        "TXT":"",
+        "TXT_TIP":""
+    }
+
+    
+}
+
+
+  

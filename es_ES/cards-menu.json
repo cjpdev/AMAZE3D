@@ -1,0 +1,47 @@
+
+{           
+            "LANG":"en_ES",
+
+            "CONGRATULATION": ["¡FELICITACIONES A","'<_NAME_TOPPLAYER_>'", "Es un jugador top de <_VALUE_>"],
+
+            "messages_service" : [
+                ["Qué tal si echas un vistazo a","el menú de configuración","algo interesante","ahí."],
+                ["No olvides","leer la página de AYUDA.", "Hay mucha información útil","ahí."],
+                ["No olvides enviar","tus puntuaciones","para entrar en la","tabla de clasificación."],
+                ["Cuando envíes","tu puntuación, añadiré una","bandera basada en tu","ubicación. Espero que sea precisa!"],
+                ["Si te gusta este juego", "Qué tal si te suscribes a","ChayMakes en YouTube","y se lo avisas?"],
+                ["Si sales del juego,","guardaré dónde estabas","para la próxima vez.", "Selecciona CONTINUAR"],
+                ["Si ves algún error, envíanos tu AYUDA.", "Envía un correo electrónico", "o visita 'chaymakes.com/roku'"]
+            ],
+
+            "messages_s1" : [
+                ["Si te gusta este juego", "Qué tal si te suscribes"," en YouTube y", "avísale a ChayMakes."],
+                ["Si sales del juego", "Guardaré dónde estabas", "Para la próxima vez", "Selecciona CONTINUAR"],
+                ["","Es solo un juego", "Diviértete."],
+                ["","Es solo un juego", "Diviértete."],
+                ["¡Hola!","FANTASMAS", "Son muy amigables."],
+                ["Entrenar a los MURCIÉLAGOS para","proteger un laberinto", "no es fácil."],
+                ["","¡Hora de divertirse!"],
+                ["","¡Espero que te diviertas!"],
+                ["","Es solo un juego", "Diviértete."],
+                ["Si ves errores, AYUDA.", "Envía un correo electrónico","o visita 'chaymakes.com/roku'"]
+            ],
+    
+            "messages_s2" : [
+                ["","¡Hora de divertirse!"],
+                ["","Es solo un juego", "Diviértete."],
+                ["Es solo un juego","No soy tan malo."],
+                ["No soy tan malo","Es solo un juego."],
+                ["","Cuéntales a tus amigos sobre mi","mundo de laberinto."],
+                ["Si te gusta este juego", "¿Qué tal si te suscribes","en YouTube y se lo","cuentas a 'ChayMakes'?"],
+                ["","Es solo un juego", "Diviértete."],
+                ["Parece que te estás divirtiendo", "¡Genial!"],
+                ["No soy un mal","rey, pero me encantan mis MONEDAS de oro."],
+                ["","Te estás poniendo","bueno en esto. Supongo que","mis guardias necesitan","una amonestación."],
+                ["","¡Sí! Esos","FANTASMAS","son ​​demasiado buenos."],
+                ["","No soy","un mal Rey. Pero me encantan las MONEDAS, el EFECTIVO y GEMAS."],
+                ["","Es fácil ser","un rey cuando tienes","¡todo este DINERO!"],
+                ["","Si ves errores, ¡AYUDA!", "Envía un correo electrónico o visita 'chaymakes.com/roku'"],
+                ["Le pedí a 'ChayMakes' que crear", "mi mundo de laberintos", "gratis. Muestra tu apoyo", "y suscríbete en YouTube"]
+            ]
+}

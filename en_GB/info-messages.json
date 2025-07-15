@@ -1,0 +1,20 @@
+{
+    "info":"ChayMakes, 'AMAZE 3D' game. Language: Base Language set.",
+    "MSG_ID_NONE":[""],
+    "MSG_ID_SPIDERS":["If you see a spider","be careful","they are harmless."],
+    "MSG_ID_THANKS_SUBSCRIBE":["Thanks for playing","my game","Subscribe to: @ChayMakes","on YouTube"],
+    "MSG_ID_COLLECT_COINS":["Collect coins to open exits,","and score points","", ""],
+    "MSG_ID_COLLECT_HEARTS":["Collect hearts","to extend your max health","",""],
+    "MSG_ID_COLLECT_CHERRYS":["Collect cherries","to restore some health","",""],
+    "MSG_ID_AVOID_GHOST_AND_BATS":["Avoid ghost, and bats","They will deal damage.","",""],  
+    "MSG_ID_BONUS_DOOR":["Earn bonus points","for exiting","BLUE or RED doors",""] ,  
+    "MSG_ID_DARK_ROOM":["It's dark in here","light are off","find coins","and than the exit"],
+    "MSG_ID_DARK_ROOM_EXIT_ONLY":["It's dark in here","light are off","find EXIT",""],
+    "MSG_ID_DARK_BASEMENT_EXIT_ONLY":["You found a basement","light are off","find EXIT",""],
+    "MSG_ID_EXIT_ONLY":["Exit is open","collect items","",""],    
+    "MSG_ID_BIG_MAZE":["Big maze","Find exits, and avoid","traps, and enemies.","GOOD LUCK!"],
+    "MSG_ID_YOUR_GREAT":["You're doing great","keep going.","","GOOD LUCK!", ""] ,
+    "MSG_ID_BONUS_LEVEL":["LUCKY!","Bonus level found.","","Collect everything you can find.", ""],
+    "MSG_ID_OUTSIDE_DARK":["It's very dark out side.", "But get some fresh air", "than find an exit.",""],
+    "MSG_ID_OUTSIDE_LIGHT":["You're out side.", "Get some fresh air,", "than find an exit.",""]        
+}

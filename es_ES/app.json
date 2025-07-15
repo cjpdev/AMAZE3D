@@ -1,0 +1,185 @@
+{
+    "GAME": {
+        "comment": "For performance I don't use my draw center function, so offset for each language is needed",
+        "SCORE_OFFSET":-4,
+        "COINS_OFFSET":0,
+        "DANGER_OFFSET":-8,
+        "FIND_EXIT_OFFSET":8
+    },
+
+    "MENU":{
+        "END_GAME_TXT": "FIN DEL JUEGO",
+        "NEW_GAME_TXT": "NUEVO JUEGO",
+        "CONTINUE_TXT": "CONTINUAR",
+        "SETTINGS_TXT": "AJUSTES",
+        "HELP_TXT": "AYUDA",
+        "ABOUT_TXT": "SOBRE",
+        "EXIT_TXT": "SALIR",
+        "LANGUAGE": "IDIOMA"
+    },
+
+    "WORDS":{    
+        "OF": "de",
+        "CURRENCY": "$",
+        "QUOTE": "Cita:",
+        "RIDDLE": "Acertijo:",
+
+        "OFF_TXT": "[NO]",
+        "ON_TXT": "[SÍ]",
+
+        "NEAR": "[CERCA]",
+        "FAR": "[LEJOS]",
+
+        "HORROR": "[HORROR]",
+        "MOON": "[LUNA]",
+        "HI": "[HI]",
+        "MID": "[MID]",
+        "LOW": "[BAJO]",
+
+        "RESOLUTION": "RESOLUCIÓN",
+        "DOORS": "PUERTAS",
+        "DOOR": "PUERTA",
+
+        "HEALTH": "SALUD",
+        "SCORE": "PUNTAJE",
+        "COINS": "MONEDAS",
+        "COIN": "MONEDA",
+        "TOP": "TOP",
+        "CASH": "EFECTIVO",
+        "DANGER": "PELIGRO",
+        "CHERRY": "CEREZA",
+        "HEART": "CORAZÓN",
+        "LEVEL": "NIVEL",
+        "BACK": "ATRÁS",
+
+        "APPLE": "Manzana",
+        "PEAR": "Pera",
+        "CHERRY_LO_CASE": "Cereza",
+        "CANCEL": "CANCELAR",
+        "SUBMIT": "ENVIAR",
+
+        "GREEN": "VERDE",
+        "BLUE": "AZUL",
+        "RED": "ROJO",
+
+        "PAUSED": "EN PAUSA",
+        "BONUS": "BONIFICACIÓN",
+        "ERROR": "ERROR"
+    },
+
+    "PROMPTS_ARRAY": {
+        "BUTTERFLY": ["Capturaste una", "MARIPOSA", "<VALUE> puntos."],
+        "SPIDER": ["APLASTASTE UNA","ARAÑA", "<VALUE> puntos", "ten más cuidado."],
+        "DOOR_COST": ["Recoge <VALUE> moneda", "para abrir esta puerta"],
+        "START_DOOR_LOCKED":["La puerta de inicio", "ahora está cerrada"],
+        "BIGHAND_CHAIN":["$1,000", "Tienes su cadena.", "¡AHORA CORRE!"],
+        "BIGBLOCKS_MONEY_NONE":["Tienes $0 de dinero", "¿QUÉ?"],
+        "BIGBLOCKS_MONEY":["-$ <VALUE>", "¡Gracias!"],
+        "POTION":["POCIÓN 100 PUNTOS", "Ahora puedes ver","EFECTIVO y BONIFICACIÓN en el minimapa."]
+    },
+
+    "GAMEOVER":{
+        "YOU_SCORED": "Has anotado",
+        "GAME_OVER": "JUEGO TERMINADO",
+        "PRESS_TO_SUBMIT": "Pulsa <Seleccionar> para enviar la puntuación",
+        "PRESS_FOR_MAIN": "Pulsa <Seleccionar> para ir al menú principal",
+        "MIN_SCORE_REQURIED": "Puntuación superior a <VALOR> para enviar la puntuación"
+    },
+
+    "SUBMIT":{
+        "CONGRATULATION":"FELICITACIONES",
+        "ENTER_NAME":"Introduce tu nombre",
+        "ADD_YOUR_SCORE":"Añade tu puntuación [<VALUE>] a la clasificación.",
+        "SUBMITING_SCORE":"ENVIANDO PUNTUACIÓN",
+        "PLEASE_WAIT":"Por favor, espera...",
+        "INVALID_NAME":"Nombre no válido",
+        "INVALID_NO_CHANGE":"",
+        "ONE_MORE_TRY":"¡Tienes un último intento!",
+        "THANKS":"Gracias por jugar!",
+        "PRESS_MAIN":"Pulsa [SELECT] en el menú principal",
+        "PRESS_RETRY":"Pulsa [SELECT] para reintentar",
+        "YOU_RANKED":"TU CLASIFICACIÓN"
+    },
+
+    "POSTER": {
+        "use":true,
+       
+        "MESSAGE_01":["GENIAL", "ERES GENIAL", "DIVIÉRTETE", "ERES UN", "TÚ PUEDES", "GRACIAS", "ESTO ES"],
+        "MESSAGE_02":["", "", "", "", "GANADOR", "GANA", "POR JUGAR", "NIVEL: <VALOR>"],
+
+        "REWARDS_TITLE":["SE BUSCA", "CAPTURA"],
+        "REWARDS_INFO":["Recompensa", "Recompensa"],
+        "REWARDS":["1000 Monedas", "5000 Monedas", "10000 Monedas", "100000 Monedas", "100 Gemas", "1000 Gemas",
+        "1 Manzana", "2 Manzanas", "4 Manzanas", "2 Pollos", "Un Ganso", "1 Pastel de Carne", "2 Pasteles de Carne"]
+    },
+
+    "DOOR_BONUS" : {
+        "GREEN_DEFAULT":"",
+        "GREEN_EXTRA":"",
+
+        "BLUE_DEFAULT":"Dinero + Monedas 50% + 50 puntos",
+        "BLUE_EXTRA":"Dinero + Monedas 50% + [HABITACIÓN OSCURA] Bonificación 100 puntos",
+
+        "RED_DEFAULT":"Dinero + Monedas + 100 puntos",
+        "RED_EXTRA":"Dinero + Monedas + Bonificación 200 puntos"
+    },
+
+    "PROMPTS":{
+        "THANKS_FOR_PLAYING": "GRACIAS POR JUGAR.",
+        "LOADING": "Cargando...",
+        "UPDATING": "Actualizando...",
+        "I_AM_FRUIT": "Soy frutado!",
+        "EXIT_OPEN": "Salida abierta",
+        "FIND_EXIT": "Buscar salida.",
+        "CHANGE_SETTING": "Presiona (SELECCIONAR) para cambiar la configuración.",
+        "GET_READY": "PREPÁRATE...",
+        "DOOR_IS_LOCKED": "Puerta cerrada",
+        "ADD_YOUR_SCORE": "Añade tu puntuación [<VALUE>] a la tabla de clasificación."
+    },
+
+    "SETTINGS": {
+        "MUSIC_TXT":"MÚSICA",
+        "MUSIC_TXT_TIP":"Música de fondo del juego, DESACTIVADA o ACTIVADA.",
+
+        "SCANLINE_TXT":"LÍNEA DE ESCANEO",
+        "SCANLINE_TXT_TIP":"Efecto de línea de escaneo retro DESACTIVADO o ACTIVADO.",
+
+        "COLLECTABLE_TEXT_TXT":"TEXTO COLECCIONABLE",
+        "COLLECTABLE_TEXT_TXT_TIP":"Mostrar nombre del objeto recolectado.",
+
+        "GHOST_FX_TXT":"EFECTOS FANTASMA",
+        "GHOST_FX_TXT_TIP":"Todos los enemigos tienen un aspecto translúcido.",
+
+        "LIGHTING_TXT":"ILUMINACIÓN",
+        "LIGHTING_TXT_TIP":"Nivel de brillo del mundo y efectos especiales",
+
+        "TOUCH_TXT":"TOQUE",
+        "TOUCH_TXT_TIP":"Mostrar mano sosteniendo la antorcha, en Laberintos oscuros." ,
+
+        "ADAPTIVE_RES_TXT":"RES. ADAPTIVA" ,
+        "ADAPTIVE_RES_TXT_TIP":"Adapta la resolución para acelerar el renderizado." ,
+
+        "ANTI_ALIASING_TXT":"ANTI-ALIASING",
+        "ANTI_ALIASING_TXT_TIP":"El suavizado de gráficos es más lento.",
+
+        "REFLECTIVE_FLOOR_TXT":"SUELO REFLECTANTE",
+        "REFLECTIVE_FLOOR_TXT_TIP":"Las paredes se reflejan en el suelo, rendimiento más lento.",
+
+        "DRAW_DISTANCE_TXT":"DISTANCIA DE DIBUJO",
+        "DRAW_DISTANCE_TXT_TIP":"Rendimiento, objeto lejano no dibujado.",
+
+        "RESET_TXT":"RESET",
+        "RESET_TXT_TIP":"Configuración predeterminada.",
+
+        "BACK_TXT":"MENÚ PRINCIPAL",
+        "BACK_TXT_TIP":"Volver al menú principal",
+
+        "TXT":"",
+        "TXT_TIP":""
+    }
+
+    
+}
+
+
+  

@@ -1,0 +1,47 @@
+{
+            "LANG":"pt_BR",
+
+             "CONGRATULATION":["PARABÉNS A!","'<_NAME_TOPPLAYER_>'", "eles são os melhores <_VALUE_>", "jogadores"],
+             "CONGRATULATION-eng":["CONGRATULATION TO!","'<_NAME_TOPPLAYER_>'", "they're a top <_VALUE_>", "player"],
+
+            "messages_service" : [
+                ["Que tal verificar", "o menu de configuração", "algumas coisas interessantes"],
+                ["Não se esqueça de","ler a página de AJUDA.", "Muitas informações úteis"],
+                ["Não esqueci de enviar","suas pontuações", "para entrar","tabela de classificação"],
+                ["Quando você enviar", "uma pontuação que adicionarei", "uma BANDEIRA com base na sua", "localização. Espero que esteja certo!"],
+                ["Se você gosta deste jogo", "Que tal se inscrever"," no YouTube, e", "deixando 'ChayMakes' saber."],
+                ["Se você SAIR do jogo", "Vou salvar onde você", "estava para a próxima vez.", "Selecione CONTINUAR"],
+                ["Eu fiz 'ChayMakes' adicionar", "suporte para diferentes idiomas", "Se você vir erros, AJUDE-o. Envie um", "e-mail ou vá para 'chaymakes.com/roku'"]
+            ],
+
+            "messages_s1" : [
+                ["Se você gosta deste jogo", "Que tal se inscrever"," no YouTube, e", "deixando 'ChayMakes' saber."],
+                ["Se você SAIR do jogo", "Vou salvar onde você","deixou para a próxima vez.", "Selecione CONTINUAR"],
+                ["","É só um jogo", "Então divirta-se."],
+                ["","É só um jogo", "Então divirta-se."],
+                ["Que tal eles!","FANTASMAS", "Eles são muito legais"],
+                ["Treinar BATS para","gard um labirinto", "não é fácil."],
+                ["","Hora de um pouco","DIVERSÃO!"],
+                ["","Hora de um pouco","DIVERSÃO!"],
+                ["","É só um jogo", "Então divirta-se."],
+                ["Eu fiz 'ChayMakes' adicionar suporte", "para diferentes idiomas", "Se você vir erros, AJUDE-o. Envie", "um e-mail ou vá para 'chaymakes.com/roku'"]
+            ],
+    
+            "messages_s2" : [
+                ["","Hora de um pouco","DIVERSÃO!"],
+                ["","É só um jogo", "Então divirta-se."],
+                ["É apenas um jogo","Eu não sou realmente", "significa."],
+                ["Eu não sou realmente", "um rei malvado", "É apenas um jogo."],
+                ["","Conte aos seus ","amigos sobre o meu","mundo labiríntico."],
+                ["Se você gosta deste jogo", "Que tal se inscrever"," no YouTube, e", "deixando 'ChayMakes' saber."],
+                ["","É só um jogo", "Então divirta-se."],
+                ["","Conte aos seus amigos", "sobre o meu mundo labiríntico."],
+                ["Parece que você", "está tendo", "DIVERSÃO!", "Isso é bom."],
+                ["Eu não sou um rei", "ruim, mas eu realmente", "amo minhas moedas de ouro."],
+                ["","Te estás volviendo", "Bueno en esto.", "Creo que mis GUARDIAS","necesitan ser reprendidos."],
+                ["","Sim! esses FANTASMAS são muito amigáveis"],
+                ["","Eu não sou","um rei ruim. Mas eu realmente", "amo MOEDAS, DINHEIRO, PEDRAS PRECIOSAS."],
+                ["","É fácil ser","um rei quando você o tem", "todo esse dinheiro!"],
+                ["Eu fiz 'ChayMakes' criar", "meu mundo de labirinto", "de graça. Mostrar apoio,", "e Inscreva-se no YouTube"]
+            ]
+ }
