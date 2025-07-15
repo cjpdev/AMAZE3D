@@ -2,8 +2,8 @@
 
 <img src="https://github.com/chaymakes/AMAZE3D/blob/main/localization.png?raw=true" height="50%" width="50%">
 
-https://youtu.be/NvcCIqE7UGU
-https://chaymakes.com/roku
+- https://youtu.be/NvcCIqE7UGU
+- https://chaymakes.com/roku
 
 These resources are used for the localization of the game. Some in game textures are still only
 available in English. I may add these in the future.
